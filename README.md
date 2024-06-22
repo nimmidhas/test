@@ -3,7 +3,6 @@
 <html lang="en">
 <body>
     <header>
-        <h1>Call Center Data Analysis</h1>
         <nav>
             <ul>
                 <li><a href="https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fprojectcomplete&action=view&mode=dashboard&subView=model0000018fed11c2bc_00000006">Dashboard</a></li>
