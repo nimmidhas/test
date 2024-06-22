@@ -1,4 +1,23 @@
 # Call center-Dashboard
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Call Center Data Analysis</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Call Center Data Analysis</h1>
+        <nav>
+            <ul>
+                <li><a href="C:\Users\DELL\Downloads\image3.jpg">Overview</a></li>
+                <li><a href=" https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fprojectcomplete&action=view&mode=dashboard&subView=model0000018fed11c2bc_00000006">Dashboard</a></li>
+                <li><a href="https://www.spectrum.net/contact-us">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
 
 ### Dashboard Link : https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fprojectcomplete&action=view&mode=dashboard&subView=model0000018fed11c2bc_00000006
 
